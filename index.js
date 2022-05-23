@@ -96,3 +96,4 @@ function iniciarApp()
 
     document.body.appendChild(subtitulo);
 }
+
